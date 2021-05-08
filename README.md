@@ -1,6 +1,4 @@
-# LAWNICS-ASSIGNMENT
-
-# STEPS NEEDED TO EXECUTE THE PROBLEM :
+#                                                      STEPS NEEDED TO EXECUTE THE PROBLEM :
 
 1.Importing the libraries
 
